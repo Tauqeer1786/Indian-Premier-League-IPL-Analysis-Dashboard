@@ -68,8 +68,8 @@ Use the **season slicer** at the top to switch between IPL 2008 and IPL 2024. Al
 ├── README.md
 ├── LICENSE
 ├── data/
-│   ├── matches.csv               # Match-level data
-│   └── deliveries.csv            # Ball-by-ball data
+│   ├── matches.xlsx               # Match-level data
+│   └── deliveries.xlsx            # Ball-by-ball data
 └── images/
     └── dashboard.png             # Dashboard preview
 ```
