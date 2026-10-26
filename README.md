@@ -63,7 +63,7 @@ Use the **season slicer** at the top to switch between IPL 2008 and IPL 2024. Al
 
 ## 📁 Repository Structure
 
-```
+```text
 ├── IPL-Analysis-Dashboard.xlsx   # Interactive Excel dashboard
 ├── README.md
 ├── LICENSE
@@ -73,8 +73,6 @@ Use the **season slicer** at the top to switch between IPL 2008 and IPL 2024. Al
 └── images/
     └── dashboard.png             # Dashboard preview
 ```
-
-> Update the file names above to match your actual files.
 
 ---
 
